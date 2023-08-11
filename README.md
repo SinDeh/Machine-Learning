@@ -13,9 +13,13 @@ This repository contains a collection of Python scripts that cover various topic
 - Multiple Linear Regression with use **LableEncoder()** in address
 - Data file that needs for running this code is `housePrice.csv`
 
+#### 1.1 Linear Regression
+- File: `car_regression_Sina_Dehghanian.ipynb`
+- Data file that needs for running this code is `cardata.csv`
+
 ### 2. Classification
 - File: `computer_olympiad_list.ipynb`
-- Description: This notebook include 4 main section:
+- Description: This notebook includes 4 main sections:
 - Use K-Nearest-neighbor
 - Use Decision-Trees
     * with criterion="entropy"
@@ -32,10 +36,13 @@ This repository contains a collection of Python scripts that cover various topic
     * with kernel='linear'
     * with kernel='poly'
 - Data file that needs for running this code is `heart.csv`
+#### 2.1 Classification
+- File: `bank_classification_Sina_Dehghanian.ipynb`
+- Data file that needs for running this code is `Bank-Personal-Loan-Modelling(1).csv`
 
-### 3. Clustring
+### 3. Clustering
 - File: `clusterig_customer.ipynb`
-- Description: This notebook include 3 main section:
+- Description: This notebook includes 3 main sections:
 - K_Means
 - Hierarchical
 - DBSCAN
@@ -44,11 +51,11 @@ This repository contains a collection of Python scripts that cover various topic
 
 ### 4. Recommendation System
 - File: `recommendation_system_IMDB_movies.ipynb`
-- Description: This notebook include 2 main section:
+- Description: This notebook includes 2 main sections:
 - Rec_Sys_Content_Based
 - Rec_Sys_Collaborative_Filtering
 
-- Data files that needs for running this code are `movies.csv` and `ratings.csv`
+- Data files that need for running this code are `movies.csv` and `ratings.csv`
 
 ## How to Use
 
