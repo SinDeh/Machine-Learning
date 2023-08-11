@@ -18,7 +18,7 @@ This repository contains a collection of Python scripts that cover various topic
 - Description: This notebook include 4 main section:
 - Use K-Nearest-neighbor
 - Use Decision-Trees
-    * with criterion="entropy"
+    ** with criterion="entropy"
     * with criterion="gini"
     * with criterion="log_loss"
 - Use Logistic-Regression
